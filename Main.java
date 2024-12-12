@@ -3,6 +3,7 @@ class Main{
 
         System.out.println("Это добавлено в ветке dev");
         System.out.println("Это коммит №", 1);
+        System.out.println("Это коммит №", 2);
 
     }
 }
