@@ -5,6 +5,7 @@ class Main{
         System.out.println("Это коммит №", 1);
         System.out.println("Это коммит №", 2);
         System.out.println("Это коммит №", 3);
+        System.out.println("Это коммит №", 4);
 
     }
 }
