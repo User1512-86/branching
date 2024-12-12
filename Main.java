@@ -3,5 +3,6 @@ class Main{
         System.out.println("Это добавлено в ветке main");
         System.out.println("Это строчка для +1 коммита");
         System.out.println("Это строчка для +2 коммита");
+        System.out.println("Это строчка для +3 коммита");
     }
 }
